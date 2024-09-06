@@ -16,9 +16,9 @@ We are the Henan University of Engineering Open Source Community, co-founded by 
 
 ****
 
-We aim to create a community for open source enthusiasts at Henan Engineering Institute, adhering to the spirit of the free software movement and dedicated to advancing the open source software cause at our institute.
+We aim to create a community for open source enthusiasts at Henan University of Engineering, adhering to the spirit of the free software movement and dedicated to advancing the open source software cause at our institute.
 
-We will provide open source community services to all faculty and students of Henan Engineering Institute, offering support for open source projects, including but not limited to technical sharing and code references for open source projects.
+We will provide open source community services to all faculty and students of Henan University of Engineering, offering support for open source projects, including but not limited to technical sharing and code references for open source projects.
 
 我们旨在创建一个河南工程学院开源爱好者的交流社区，秉承自由软件运动之精神，致力于河工软件开源事业。
 
