@@ -6,9 +6,9 @@
 
 ****
 
-We are the Henan University of Engineering Open Source Community, co-founded by [@LiYuSen](https://github.com/Doge2077) and [@XingHaoZhe](https://github.com/spumant) in August 2024.
+We are the Henan University of Engineering Open Source Community, co-founded by [@Yusen Li](https://github.com/Doge2077) and [@Haozhe Xing](https://github.com/spumant)  in August 2024.
 
-我们是河南工程学院开源社区组织，由 [@LiYuSen](https://github.com/Doge2077) 和 [@XingHaoZhe](https://github.com/spumant) 联合创办于 2024 年 8 月份。
+我们是河南工程学院开源社区组织，由 [@Yusen Li](https://github.com/Doge2077) 和 [@Haozhe Xing](https://github.com/spumant) 联合创办于 2024 年 8 月份。
 
 ****
 
